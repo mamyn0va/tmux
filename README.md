@@ -2,7 +2,7 @@
 
 > A dark theme for [tmux](https://github.com/tmux/tmux).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](https://user-images.githubusercontent.com/11281228/62902826-15feac80-bd61-11e9-8d25-d5b1bb1770fc.png)
 
 ## Install
 
